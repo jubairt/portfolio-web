@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive personal portfolio website built using HTML, CSS, Bootstrap, JavaScript, and jQuery to showcase web development skills, projects, services, and contact information. :contentReference[oaicite:0]{index=0}
+A responsive personal portfolio website built using HTML, CSS, Bootstrap, JavaScript, and jQuery to showcase web development skills, projects, services, and contact information.
 
 ---
 
